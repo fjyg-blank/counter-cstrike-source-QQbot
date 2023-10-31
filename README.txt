@@ -1,4 +1,6 @@
-中文
+本项目是一个基于rcon协议与go-cqhttp使用python实现的一个能够对接cs起源服务器控制台的QQ机器人。
+
+中文使用文档：
 一、准备工作
     1.python版本3及以上
     2.go-cqhttp最新版本
@@ -23,7 +25,7 @@
     
     6.QQ群发送/menu查看功能菜单，一定是群消息，私聊暂未开发。
 
-English
+Documentation for use in English:
 Preparation work
     1.Python version 3 and above
     2.go-cqhttp latest version
